@@ -159,7 +159,6 @@
 
 ### Bug Fixes
 
-* correct the attribute for the Twitter social image ([#1615](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1615)) ([cfe44f2](https://github.com/cotes2020/jekyll-theme-chirpy/commit/cfe44f204bcec8e05f498512ec50878e626a124f))
 * **seo:** correct social preview image path inside `<meta>` tag ([#1623](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1623)) ([74cf57a](https://github.com/cotes2020/jekyll-theme-chirpy/commit/74cf57aaacf6674057e6f33240a22f4888cfe88f))
 
 ## [6.5.3](https://github.com/cotes2020/jekyll-theme-chirpy/compare/v6.5.2...v6.5.3) (2024-03-07)
@@ -189,7 +188,6 @@
 
 ### Bug Fixes
 
-* correct the Twitter Card in social share preview ([#1498](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1498)) ([74f1662](https://github.com/cotes2020/jekyll-theme-chirpy/commit/74f16623c9c4877ef36ac52e8b69c19d1d9a82ba))
 * missing "/" at the end of URLs for categories and tags in breadcrumb ([#1495](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1495)) ([02e296e](https://github.com/cotes2020/jekyll-theme-chirpy/commit/02e296ed75b7906b2d112c67f9054f5d71919de9))
 
 ### Improvements
@@ -281,7 +279,6 @@
 * **layout:** center the footer ([41b8f9f](https://github.com/cotes2020/jekyll-theme-chirpy/commit/41b8f9f519e5f5f69e9a123b38b06bade2271a82))
 * **posts:** render heading 4 in TOC ([#1023](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1023)) ([229c2a2](https://github.com/cotes2020/jekyll-theme-chirpy/commit/229c2a2e2b109fc2eca85be548f1dd97234e44c4))
 * **ui:** redesign the pagination button on home page ([62bcd60](https://github.com/cotes2020/jekyll-theme-chirpy/commit/62bcd601fcadc602c81672b1d4b937231396c3c0))
-* **ui:** update the twitter icon ([#1221](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1221)) ([aff7566](https://github.com/cotes2020/jekyll-theme-chirpy/commit/aff75667749769644f990d3dc9b0720c7d96d14d))
 
 ### Improvements
 
@@ -510,8 +507,6 @@
 
 * alt is not a valid attribute for 'a' tag ([58928db](https://github.com/cotes2020/jekyll-theme-chirpy/commit/58928dbc9068db4e4cda4371eeae1865920dce6a))
 * assets URL is missing `baseurl` in self-hosted mode ([#591](https://github.com/cotes2020/jekyll-theme-chirpy/issues/591)) ([54124d5](https://github.com/cotes2020/jekyll-theme-chirpy/commit/54124d5134995fce52e4c2fc0a5d4d1743d6264d))
-* correct the `twitter:creator` of Twitter summary card ([96a16c8](https://github.com/cotes2020/jekyll-theme-chirpy/commit/96a16c868ede51e7dfa412de63ffa1e5a49add7f))
-* correctly URL encode share links ([4c1c8d8](https://github.com/cotes2020/jekyll-theme-chirpy/commit/4c1c8d8b0eacecbbaa2d522bbdd6430f350ff760)), closes [#496](https://github.com/cotes2020/jekyll-theme-chirpy/issues/496)
 * follow paginate_path config for pagination ([6900d9f](https://github.com/cotes2020/jekyll-theme-chirpy/commit/6900d9f2bc9380cbda4babf611c6eeff345291af))
 * force checkout of `gh-pages` branch ([#544](https://github.com/cotes2020/jekyll-theme-chirpy/issues/544)) ([5402523](https://github.com/cotes2020/jekyll-theme-chirpy/commit/5402523ae52a3740bcc15df0b226b2612644945d))
 * horizontal scroll for long equations ([#545](https://github.com/cotes2020/jekyll-theme-chirpy/issues/545)) ([30787fc](https://github.com/cotes2020/jekyll-theme-chirpy/commit/30787fc4cf151e955bb7afc26dfd859f1a06fce6))

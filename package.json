@@ -1,18 +1,18 @@
 {
-  "name": "jekyll-theme-chirpy",
-  "version": "7.3.0",
-  "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+  "name": "Dhyrk's Blog",
+  "version": "1.0.0",
+  "description": "A theme adapted from https://github.com/cotes2020/jekyll-theme-chirpy for my own blog.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    "url": "git+https://github.com/DylanHyrkas/dhyrks-blog/.git"
   },
-  "author": "Cotes Chung",
+  "author": "Dylan Hyrkas",
   "license": "MIT",
   "since": 2019,
   "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    "url": "https://github.com/DylanHyrkas/dhyrks-blog//issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy/",
+  "homepage": "https://github.com/DylanHyrkas/dhyrks-blog//",
   "scripts": {
     "build": "concurrently npm:build:*",
     "build:css": "node purgecss.js",
